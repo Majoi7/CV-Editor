@@ -1,0 +1,6 @@
+{
+  "name": "CV AI Editor",
+  "description": "Éditeur intelligent de CV HTML avec IA ciblée préservant à 100% le design, CSS et templates originaux.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
